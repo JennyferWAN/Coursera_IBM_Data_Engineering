@@ -37,4 +37,25 @@ These are the projects that I got to do :
 
 
 ### 2️⃣ Introduction to Relational Databases (RDBMS)
-1. [Project : Database Design and Implementation](https://github.com/JennyferWAN/Coursera_IBM_Data_Engineering/blob/99edb37bd3ec5d2c8be74a47b9a35350cc59672f/Python_Project/1_ExtractTransformLoad.ipynb)
+Project : Database Design and Implementation
+
+### 3️⃣ Databases and SQL for Data Science with Python
+Advanced SQL Techniques : Use Join / Create and Query Views / Write and run stored procedures
+
+### 4️⃣ Hands-on Introduction to Linux Commands and Shell Scripting
+
+### 5️⃣ Relational Database Administration (DBA)
+
+### 6️⃣ ETL and Data Pipelines with Shell, Airflow and Kafka
+
+### 7️⃣ Getting Started with Data Warehousing and BI Analytics
+
+### 8️⃣ Introduction to NoSQL Databases
+
+### 9️⃣ Introduction to Big Data with Spark and Hadoop
+
+### 🔟 Data Engineering and Machine Learning using Spark
+
+### Data Engineering Capstone Project
+
+
